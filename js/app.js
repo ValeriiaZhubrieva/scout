@@ -3767,11 +3767,11 @@
             breakpoints: {
                 319.98: {
                     slidesPerView: 1.1,
-                    spaceBetween: 20
+                    spaceBetween: 25
                 },
                 478.98: {
                     slidesPerView: 2.1,
-                    spaceBetween: 20
+                    spaceBetween: 25
                 },
                 767.98: {
                     slidesPerView: 3,
